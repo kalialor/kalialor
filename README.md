@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalialor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Java
+- 👀 I’m interested in ... software development
+- 🌱 I’m currently learning ... JavaScript, Java, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kalialor23@gmail.com
 

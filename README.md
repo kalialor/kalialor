@@ -7,21 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/kalialorsde" target="blank"><img src="https://img.shields.io/twitter/follow/kalialorsde?logo=twitter&style=for-the-badge" alt="kalialorsde" /></a> </p>
 
-- 🔭 I’m currently working on **finishing 100Devs**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I am well-versed in **JavaScript, Java, React, MongoDB, & Express.js.**
 
-- 👯 I’m looking to collaborate on **mobile apps**
 
 - 👨‍💻 All of my projects are available at [https://kalialor.netlify.app/](https://kalialor.netlify.app/)
-
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 
 - 📫 How to reach me **kalialorSDE@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kalialor/](https://www.linkedin.com/in/kalialor/)
 
 - ⚡ Fun fact **I have a dog named Oliver Queen!**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

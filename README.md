@@ -30,7 +30,7 @@
 
 <br>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalialor&show_icons=true&locale=en&layout=compact" alt="kalialor" /></p>
+
 
 
 

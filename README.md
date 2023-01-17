@@ -36,8 +36,29 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalialor&" alt="kalialor" /></p>
 
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalialor&" alt="kalialor"/></p>
+
+<article>
+										<a href="https://savewildlife.netlify.app/" target="_blank" class="image"><img src="images/globe.gif" alt="" /></a>
+										<h3>Save Wildlife</h3>
+										<p><strong>JavaScript, Node, MongoDB, Express</strong> A non-profit that I started to save animals from extinction. On the site you can meet with other wildlife conservationists, 
+										look up a wildlife refuge near you, steps you can take today to save an animal, and learn more about the animals that are critically endangered. </p>
+										<ul class="actions">
+											<li><a href="https://savewildlife.netlify.app/" target="_blank" class="button">More</a></li>
+										</ul>								</article>
+									<article>
+										<a href="https://kalialor3dtext.vercel.app/" target="_blank" class="image"><img src="images/3dtext.gif" alt="" /></a>
+										<h3>Fully, Immersive 3D Websites & Web Apps</h3>
+										<p><strong>Three.js & WebGL</strong> Do you want to add some fun to your websites that keeps users engaged? I have the ability to add personalized 3D models to your websites.</p>
+										<ul class="actions">
+											<li><a href="https://kalialor3dtext.vercel.app/" target="_blank" class="button">More</a></li>
+										</ul>
+									</article>
+
+![3dtext](https://user-images.githubusercontent.com/103382223/212885013-e04941f3-3cb0-4cba-9d60-c07d12e1179a.gif)
 
 <!---
 kalialor/kalialor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

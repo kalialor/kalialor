@@ -3,7 +3,7 @@
 
 
 <br>
-- 🌱 I am well-versed in **JavaScript, Java, React, MongoDB, Express.js, & Blender**
+- 🌱 I am well-versed in **JavaScript, Java, React, MongoDB, Express.js, Blender, Three.js, & WebGL**
 
 - 👨‍💻 All of my projects are available at [https://kalialor.netlify.app/](https://kalialor.netlify.app/)
 

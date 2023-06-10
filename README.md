@@ -5,7 +5,7 @@
 <br>
 - 🌱 I am well-versed in **JavaScript, C#, .NET, React, Typescript, MongoDB, Express.js, Blender, Three.js, & WebGL**
 
-- 👨‍💻 All of my projects are available at [https://kalialor.netlify.app/](https://kalialor.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kalialor.netlify.app/](https://3dportfolio-i3ovx3pbh-kalialor.vercel.app/)
 
 - 🦘 Visit my non-profit website here: https://savewildlife.netlify.app/
 
